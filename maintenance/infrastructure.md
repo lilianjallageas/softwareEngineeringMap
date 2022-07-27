@@ -14,6 +14,7 @@
 * [Docker](https://www.docker.com/)
 * [Kubernetes](https://kubernetes.io/)
 * [VMWare](https://www.vmware.com/)
+* [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 
 #### Edge & CDNs
 
