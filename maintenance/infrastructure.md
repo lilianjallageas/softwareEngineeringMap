@@ -1,5 +1,7 @@
 # Infrastructure
 
+DevOps engineers can rely on the following platforms to deliver and maintain development, testing and production environments:
+
 #### Cloud Platforms
 
 * [AWS](https://aws.amazon.com/)

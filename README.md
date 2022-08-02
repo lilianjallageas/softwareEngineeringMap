@@ -1,5 +1,7 @@
 # Software Engineering Map
 
-The following map helps software engineering managers navigate the nebula of tools involved in a product's development lifecycle.
+Building and growing a Software Development factory is a challenge for all levels of the Engineering Management chain.
 
-![](<.gitbook/assets/Map - Software Engineering Map\_20220726.png>)
+The following map provides a synthesized view of the building blocks of a full fledged software development factory, and may help managers navigate the nebula of tools involved in the production process.
+
+![](<.gitbook/assets/Map - Software Engineering Map\_20220801.png>)

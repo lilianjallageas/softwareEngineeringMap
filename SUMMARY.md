@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Software Engineering Map](README.md)
+  * [Personas](software-engineering-map/personas.md)
 * [Design](design/README.md)
   * [Product Management](design/page-1.md)
   * [UX Design](design/ux-design.md)
