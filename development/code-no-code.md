@@ -6,15 +6,16 @@
 
 Developers rely on an endless list of programming languages to build software. Here are some of the most popular:
 
-* Javascript
-* Python
-* HTML
-* CSS
-* Java
-* C#
-* C++
-* Rust
-* Go
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Python](https://www.python.org/)
+* [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting\_started\_with\_the\_web/HTML\_basics)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Java](https://www.java.com/en/)
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+* [C++](https://cplusplus.com/)
+* [Rust](https://www.rust-lang.org/)
+* [Go](https://go.dev/)
+* ...and many more.
 
 ### Frameworks
 
