@@ -4,4 +4,4 @@ Building and growing a Software Development factory is a challenge for all level
 
 The following map provides a synthesized view of the building blocks of a full fledged software development factory, and may help managers navigate the nebula of tools involved in the production process.
 
-![](<.gitbook/assets/Map - Software Engineering Map\_20220801.png>)
+<figure><img src=".gitbook/assets/Map - Software Engineering Map_20230105.png" alt=""><figcaption></figcaption></figure>
